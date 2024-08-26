@@ -1,0 +1,6 @@
+.wrapper-cate{
+    background-color: var(--color-darkest);
+    border-radius: 50px;
+    padding: var(--padding-primary);
+    margin-top: var(--margin-primary);  
+}

@@ -1,0 +1,11 @@
+@keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } 
+.react-tel-input .form-control {
+  @apply !w-full py-6 !text-base;
+}

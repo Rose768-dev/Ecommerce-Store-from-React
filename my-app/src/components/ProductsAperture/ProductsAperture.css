@@ -1,0 +1,17 @@
+.mb-7{
+    margin-bottom: 16px;
+}
+.custom-switch .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: green;
+  }
+.custom-switch .custom-control-label {
+    font-size: 20px; /* تكبير حجم النص في التسمية */
+  }
+  
+.textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+}

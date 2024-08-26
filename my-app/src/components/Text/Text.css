@@ -1,0 +1,7 @@
+.link-text {  
+    color: var(--color-light);
+
+  }
+  .link-text:hover {
+    color: var(--color-primary);
+  }

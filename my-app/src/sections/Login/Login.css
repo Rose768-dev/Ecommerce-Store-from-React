@@ -1,0 +1,29 @@
+.yyyy{
+  color: #000 !important;
+}
+.text-muted {  
+    text-align: right ;
+    color: #d7ac9b !important;
+    direction: ltr;
+    
+  }
+  .mb-3{
+    text-align: right ;
+    direction: ltr ;
+  }
+.text-muted2{
+  color: var(--color-light) !important;
+}
+
+.text-muted2:hover {
+  color: var(--color-primary);
+}
+
+.text-muted3{
+  color: var(--color-light) !important;
+
+}
+/* إضافة مساحة بين النص وحقل البريد الإلكتروني */
+.form-group {
+  margin-bottom: 20px; /* يمكنك تعديل القيمة حسب احتياجاتك */
+}

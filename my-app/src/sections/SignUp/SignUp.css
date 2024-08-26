@@ -1,0 +1,15 @@
+.checkbox-label {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-bottom: 16px; /* تعديل المسافة العمودية حسب الحاجة */
+  }
+  
+  .label-text {
+    margin-right: 8px;
+    display: inline; 
+
+  }
+  .row{
+    margin-bottom: 16px;
+  }

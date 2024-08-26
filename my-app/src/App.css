@@ -1,0 +1,121 @@
+:root{
+    --color-dark: #FAEBE5; 
+    --color-darkest:#3f2121;
+    --color-light: #f3ebeb;
+    --color-primary:#A87561;
+    --color-icons: yellow;
+    --color-bg-body:var(--color-darkest);
+
+    --distance-primary:50px;
+    --padding-primary:50px;
+    --margin-primary:50px;
+    --border-radiuse-primary: calc(var(--distance-primary)/2);
+
+    --font-family-primary: 'Poppins', sans-serif;
+    --font-weight-bold: 900;
+    --font-weight-normal: 400;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@00;900&display=swap');
+
+body{
+    
+    background-color: var(--color-bg-body);
+    font-family: var(--font-family-primary);
+
+}
+
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+/*  */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+  } */
+  
+  
+  #dropdown-basic {
+    outline: none;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    color: var(--color-light);
+  }
+  
+  .goback{
+    background-color: var( --color-primary);
+    color: white;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px 0px;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    min-width: 100px;
+  }
+  
+  .goback svg{
+    margin-right: 5px;
+    width: 15px;
+    height: 19px;
+  }
+  
+  
+  .stylenone{
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .mainhead1{
+    color: var( --color-darkest);
+    font-size: 30px;
+    font-weight: 300;
+    padding: 5px 10px;
+    margin-top: 10px;
+  }
+  
+  .mainbutton1{
+    background: none;
+    border: 1px solid var(--);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin: 1rem;
+    cursor: pointer;
+    color: var( --color-darkest);
+  }
+  
+  
+  .mainbutton1:hover {
+    background-color: var(- --color-dark);
+    color: white;
+    transform: scale(1.1);
+    transition: all 0.6s ease-in-out;
+  }
+  
+@media screen and (max-width: 768px) {
+  .mainhead1{
+    font-size: 16px;
+  }
+  body{
+    
+    background-color: var(--color-bg-body);
+    font-family: var(--font-family-primary);
+    font-weight: 200;
+}
+
+}

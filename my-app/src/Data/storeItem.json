@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "name": "بلوزة صيفي",
+      "price": 10.99,
+      "imgUrl": "/imgs/popular1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "فخار شمع",
+      "price": 1199,
+      "imgUrl": "/imgs/popular2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "سجاد فلسطيني",
+      "price": 1.05,
+      "imgUrl": "/imgs/popular3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "شمع",
+      "price": 14000,
+      "imgUrl": "/imgs/popular4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "بلوزة صيفي",
+      "price": 10.99,
+      "imgUrl": "/imgs/popular1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "فخار شمع",
+      "price": 1199,
+      "imgUrl": "/imgs/popular2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "سجاد فلسطيني",
+      "price": 1.05,
+      "imgUrl": "/imgs/popular3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "شمع",
+      "price": 14000,
+      "imgUrl": "/imgs/popular4.jpg"
+    },
+    {
+      "id": 9,
+      "name": "بلوزة صيفي",
+      "price": 10.99,
+      "imgUrl": "/imgs/popular1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "فخار شمع",
+      "price": 1199,
+      "imgUrl": "/imgs/popular2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "سجاد فلسطيني",
+      "price": 1.05,
+      "imgUrl": "/imgs/popular3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "شمع",
+      "price": 14000,
+      "imgUrl": "/imgs/popular4.jpg"
+    },{
+      "id": 13,
+      "name": "بلوزة صيفي",
+      "price": 10.99,
+      "imgUrl": "/imgs/popular1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "فخار شمع",
+      "price": 1199,
+      "imgUrl": "/imgs/popular2.jpg"
+    },
+    {
+      "id": 15,
+      "name": "سجاد فلسطيني",
+      "price": 1.05,
+      "imgUrl": "/imgs/popular3.jpg"
+    },
+    {
+      "id": 16,
+      "name": "شمع",
+      "price": 14000,
+      "imgUrl": "/imgs/popular4.jpg"
+    },
+    {
+      "id": 17,
+      "name": "بلوزة صيفي",
+      "price": 10.99,
+      "imgUrl": "/imgs/popular1.jpg"
+    },
+    {
+      "id": 18,
+      "name": "فخار شمع",
+      "price": 1199,
+      "imgUrl": "/imgs/popular2.jpg"
+    },
+    {
+      "id": 19,
+      "name": "سجاد فلسطيني",
+      "price": 1.05,
+      "imgUrl": "/imgs/popular3.jpg"
+    },
+    {
+      "id": 20,
+      "name": "شمع",
+      "price": 14000,
+      "imgUrl": "/imgs/popular4.jpg"
+    },
+    {
+      "id": 21,
+      "name": "بلوزة صيفي",
+      "price": 10.99,
+      "imgUrl": "/imgs/popular1.jpg"
+    }
+
+  ]
+  

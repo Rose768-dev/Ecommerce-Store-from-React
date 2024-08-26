@@ -1,0 +1,38 @@
+.order-tracking {
+  font-family: var(--font-family-primary);
+  color: #333;
+}
+
+.order-steps {
+  list-style: none;
+  padding: 0;
+}
+
+.order-step {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #666;
+}
+
+.step-icon {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  font-size: 14px;
+  color: white;
+  background-color: #ccc;
+  border-radius: 50%;
+}
+
+.order-step.completed .step-icon {
+  background-color: green;
+}
+
+.order-step.completed {
+  color: #333;
+}

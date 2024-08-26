@@ -1,0 +1,50 @@
+.cyborg-navbar{
+    min-height: 100px;
+}
+.nav-link{
+    color: var(--color-light);
+}
+.dropdown-item{
+    color: var(--color-light);
+}
+/* .nav-link :hover{
+    color: red;
+} */
+.dropdown-menu li a{
+    color: var(--color-dark);
+    text-align: right;
+}
+/* kkkkkkkk */
+nav {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+nav svg {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+nav svg:hover {
+    color: var(--color-light);
+}
+
+nav .cart {
+    position: relative;
+    margin: 0px 20px;
+    background-color: var(--color-light);
+    border-radius: 50%;
+    padding: 0px; 
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: -4px;
+    right: -15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}

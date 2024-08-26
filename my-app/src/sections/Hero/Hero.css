@@ -1,0 +1,17 @@
+.hero-main{
+    background-color: var(--color-darkest);
+    border-radius: 50px;
+    padding: var(--padding-primary);
+    line-height: 10.5rem;
+}
+.hero-text{
+    max-width: 500px;
+    
+}
+
+.most-popular-items1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}

@@ -1,0 +1,16 @@
+.payment-method-image{  
+        width: 50px; /* تحديد عرض الصورة */
+        height: auto; /* تحديد ارتفاع الصورة */
+}
+.horizontal-line {
+    width: 100%;
+    height: 1px;
+    background-color: var(--color-dark);
+  }
+  .payment-methods {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+    justify-items: center;
+    align-items: center;
+  }
